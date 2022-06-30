@@ -7,7 +7,6 @@ pyKriging==0.2.0
 pyOpt==0.84
 pyroma==4.0
 PyYAML==6.0
-scipy==1.8.1
 setuptools==62.6.0
 vehicles==0.0.1
 zest==0.1.1.post1
