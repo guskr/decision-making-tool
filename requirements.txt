@@ -7,7 +7,6 @@ pyKriging==0.2.0
 pyOpt==0.84
 pyroma==4.0
 PyYAML==6.0
-scikit_learn==1.1.1
 scipy==1.8.1
 setuptools==62.6.0
 vehicles==0.0.1
@@ -52,7 +51,7 @@ nest-asyncio==1.5.5
 nodejs==17.9.0 
 notebook==6.4.12
 notebook-shim==0.1.0 
-scikit-learn==1.1.1 
+scikit-learn>=1.0 
 scipy==1.8.1 
 sqlite==3.38.5 
 suave==2.5.2
